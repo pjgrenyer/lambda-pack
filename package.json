@@ -1,7 +1,7 @@
 {
-    "name": "node-typescript-template",
-    "version": "1.0.1",
-    "description": "A template node typescript project",
+    "name": "lambda-pack",
+    "version": "0.0.1",
+    "description": "A tool for packaging lambdas built with typescript",
     "main": "index.js",
     "scripts": {
         "prepare": "husky install",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pjgrenyer/node-typescript-template.git"
+        "url": "git+https://github.com/pjgrenyer/lambda-pack.git"
     },
     "keywords": [
         "node",
@@ -22,9 +22,9 @@
     "author": "Paul Grenyer",
     "license": "SEE LICENSE IN LICENSE",
     "bugs": {
-        "url": "https://github.com/pjgrenyer/node-typescript-template/issues"
+        "url": "https://github.com/pjgrenyer/lambda-pack/issues"
     },
-    "homepage": "https://github.com/pjgrenyer/node-typescript-template#readme",
+    "homepage": "https://github.com/pjgrenyer/lambda-pack#readme",
     "dependencies": {
         "husky": "^8.0.3",
         "typescript": "^5.0.4"
